@@ -9,6 +9,7 @@ using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System.Globalization;
 
+
 namespace MyHealth.Client.Core.ViewModels
 {
     public class HomeViewModel 
